@@ -1,0 +1,9 @@
+{
+  "name": "angular-bootstrap-datetimepicker-directive",
+  "version": "0.1.3",
+  "description": "A wrapper directive around the bootstrap-datetimepicker component.",
+  "main": "angular-bootstrap-datetimepicker-directive.js",
+  "repository": "https://github.com/lawnstarter/angular-bootstrap-datetimepicker-directive.git",
+  "author": "Diosney <diosney.s@gmail.com>",
+  "license": "MIT"
+}
